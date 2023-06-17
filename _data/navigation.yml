@@ -80,8 +80,9 @@ primary:
 secondary:
   - text: Documentation
     href: /docs/
-  - text: Theme
-    href: /theme/
+  - text: GitHub
+    href: https://github.com/GovA11y/definitions
+    external: true
 
 docs:
   - text: Sidenav Documentation
