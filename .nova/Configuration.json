@@ -4,7 +4,8 @@
     "markdown",
     "plaintext",
     "yaml",
-    "ruby"
+    "ruby",
+    "json"
   ],
   "eablokker.tabsSidebar.config.customTabOrder" : [
     "\/Users\/Shared\/GitHub\/Orgs\/GovA11y\/Definitions\/_layouts\/glossary.html",
@@ -35,8 +36,12 @@
     "\/Users\/Shared\/GitHub\/Orgs\/GovA11y\/Definitions\/_data\/glossary\/us-states.csv",
     "\/Users\/Shared\/GitHub\/Orgs\/GovA11y\/Definitions\/glossary\/terms_product-mgmt.md",
     "\/Users\/Shared\/GitHub\/Orgs\/GovA11y\/Definitions\/_site\/index.html",
-    "\/Users\/Shared\/GitHub\/Orgs\/GovA11y\/Definitions\/index.html",
-    "\/Users\/Shared\/GitHub\/Orgs\/GovA11y\/Definitions\/index.markdown"
+    "\/Users\/Shared\/GitHub\/Orgs\/GovA11y\/Definitions\/.git\/config",
+    "\/Users\/Shared\/GitHub\/Orgs\/GovA11y\/Definitions\/.git\/FETCH_HEAD",
+    "\/Users\/Shared\/GitHub\/Orgs\/GovA11y\/Definitions\/.nova\/Configuration.json",
+    "\/Users\/Shared\/GitHub\/Orgs\/GovA11y\/Definitions\/index.markdown",
+    "\/Users\/Shared\/GitHub\/Orgs\/GovA11y\/Definitions\/Gemfile.lock",
+    "\/Users\/Shared\/GitHub\/Orgs\/GovA11y\/Definitions\/.gitignore"
   ],
   "workspace.art_style" : 0,
   "workspace.name" : "GovA11y Definitions"
