@@ -1,0 +1,33 @@
+name: Generate Markdown
+
+on:
+  push:
+    paths:
+      - '_data/glossary/*'
+
+jobs:
+  generate-markdown:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Set up Python 3.9
+        uses: actions/setup-python@v2
+        with:
+          python-version: 3.9
+
+      - name: Install dependencies
+        run: python -m pip install --upgrade pip
+
+      - name: Run script
+        run: python generate_markdown.py
+
+      - name: Commit and push if it changed
+        run: |
+          git config --global user.name "${{ secrets.BOT_NAME }}"
+          git config --global user.email "${{ secrets.BOT_EMAIL }}"
+          git add -A
+          git diff --quiet && git diff --staged --quiet || (echo "There are changes to commit..." && git commit -m 'Auto generate markdown for glossary CSVs' && git push)
+
