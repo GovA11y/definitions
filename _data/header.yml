@@ -16,7 +16,7 @@ type: extended
 logo:
   src: https://raw.githubusercontent.com/GovA11y/.github/main/assets/logos/transparent/icon.svg
   alt: GovA11y
-  href: http://127.0.0.1:4000/home/
+  href: https://definitions.gova11y.io
   external: true
 
 # this is a key into _data/navigation.yml
