@@ -63,6 +63,9 @@ primary:
       - text: Accessibility
         href: https://accessibility.civicactions.com/
         external: true
+      - text: Glossary
+        href: https://accessibility.civicactions.com/guide/glossary
+        external: true
       - text: Handbook
         href: https://guidebook.civicactions.com/
         external: true
