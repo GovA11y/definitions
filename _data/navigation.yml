@@ -12,27 +12,70 @@
 #   links: primary
 #
 primary:
-  - text: How to Use
-    href: /how-to-use/
-  - text: Definitions
+  #- text: Great Definitions
+   # href: https://www.youtube.com/watch?v=xvFZjo5PgG0
+   # external: true
+  - text: Rules
     links:
-      - text: Demo link A
-        href: /two/a/
-      - text: Demo link B
-        href: /two/b/
-      - text: Demo link C
-        href: /two/c/
-      - text: Demo link D
-        href: /two/a/
-      - text: Demo link E
-        href: /two/b/
-      - text: Demo link F
-        href: /two/c/
-  - text: About Us
-    links: footer
-  - text: System Status
-    href: https://status.gova11y.io
+      - text: A11y Rules
+        href: /rules/a11y
+  - text: Codes
+    links:
+      - text: Uppies Status Codes
+        href: /codes/uppies
+      - text: US State Codes
+        href: /codes/us-states
+  - text: Terms
+    links:
+      - text: Product Management Vocabulary
+        href: /terms/product-management
+      - text: Security
+        href: /terms/security/acronyms
+      - text: Security | DoD
+        href: /terms/security/dod
+      - text: Security | Function Points
+        href: /terms/security/function-points
+      - text: Security | GlobalNET
+        href: /terms/security/globalnet
+      - text: Security | Random
+        href: /terms/security/random
+  - text: External Resources
+    links:
+      - text: Siteimprove Glossary
+        href: https://www.siteimprove.com/glossary/
+        external: true
+      - text: PlainLanguage.gov
+        href: https://www.plainlanguage.gov/
+        external: true
+      - text: Mike's Main Mapping
+        href: https://docs.google.com/spreadsheets/d/12WN7pheuJZQEzb2bRisamrApJ4MpMKmdJmnxB7kQABA/edit#gid=0
+        external: true
+      - text: Great Definitions
+        href: https://www.youtube.com/watch?v=xvFZjo5PgG0
+        external: true
+  - text: CivicActions
+    href: https://civicactions.com
     external: true
+    links:
+      - text: CivicActions.com
+        href: https://civicactions.com
+        external: true
+      - text: Accessibility
+        href: https://accessibility.civicactions.com/
+        external: true
+      - text: Handbook
+        href: https://guidebook.civicactions.com/
+        external: true
+      - text: Styleguide
+        href: https://civicactions-style-guide.readthedocs.io/
+        external: true
+
+
+ # - text: About Us
+ #   links: footer
+#  - text: System Status
+ #   href: https://status.gova11y.io
+ #   external: true
 
 secondary:
   - text: Documentation
@@ -50,11 +93,11 @@ docs:
 # Uncomment the 'links' sections below to use footer link columns
 # with the 'big' footer style.
 footer:
-  - text: Documentation
-    href: /docs/
+  - text: Sample
+    href: /termsaa/
     links:
-      - text: Overview
-        href: /docs/
+      - text: Axe Types
+        href: /termsaaa/axe_types
       - text: Secondary documentation page
         href: /docs/two/
       - text: Tertiary docs

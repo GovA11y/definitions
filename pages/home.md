@@ -1,6 +1,6 @@
 ---
 title: Home
-permalink: /
+permalink: /home
 
 layout: home
 
@@ -8,26 +8,21 @@ layout: home
 hero:
   image: /assets/uswds/img/hero.png
   callout:
-    alt: "Check da rules:"
-    text: What do the rules look like?
+    alt: "Hero callout:"
+    text: Bring attention to a current priority
   button:
-    href: /rules/a11y
-    text: See the A11y Rules
+    href: /callout/
+    text: Call to action
   link:
     text: Link to more about that priority
     href: /link/
   content: Support the callout with some short explanatory text. You don't need more than a couple of sentences.
 
-tagline: Click the nav bar and such.
+tagline: A tagline highlights your approach.
 intro: |
-  I added some pages and such to the nav bar. All these files are machine readable
+  The tagline should inspire confidence and interest, [focusing on the value](javascript:void(0);) that your overall approach offers to your audience. Use a heading typeface and keep your tagline to just a few words, and don’t confuse or mystify.
 
-  I put some placeholder stuff there, but we can define it however you want. Now that I have it in a machine readable format, things are peachy. Definitions are managed in a csv file, so you add a n item to it and it is prettified.
-
-  Not sure if a table is the best way to show this data, let me know what you think about the other USWDS thingies.
-
-  [View the USWDS Components](https://designsystem.digital.gov/components/overview/){: .usa-button.usa-button--big target="_blank"}
-
+  Use the right side of the grid to explain the tagline a bit more. What are your goals? How do you do your work? Write in the present tense, and stay brief here. People who are interested can find details on internal pages.
 
 graphics:
   - image:

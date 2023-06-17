@@ -4,14 +4,7 @@
 # Uncomment the following line to use the header title.
 # title: Header title
 
-# Show or hide the official USA banner at the top of the site.
-# Comment out to the following line to hide.
-usa_banner: false
 
-# This setting changes the TLD used as an argument for trust in banner.html.
-# If options besides .mil and .gov are added, it may be worth adding a JS
-# determiner or other automated feature. If undefined, the default is .gov
-# government_tld: .mil
 
 # Defines the type of header.
 # Header types can be 'basic', 'basic-mega', 'extended' or 'extended-mega'.
@@ -23,6 +16,7 @@ type: extended
 logo:
   src: https://raw.githubusercontent.com/GovA11y/.github/main/assets/logos/transparent/icon.svg
   alt: GovA11y
+  href: http://127.0.0.1:4000/home/
   external: true
 
 # this is a key into _data/navigation.yml

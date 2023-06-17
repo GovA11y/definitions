@@ -18,19 +18,40 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: GovA11y Definitions
+# USWDS Settings
+# https://github.com/usds/website/blob/master/_config.yml
+
+title: GovA11y Glossary
 email: hello@gova11y.io
 description: >- # this means to ignore newlines until "baseurl:"
   Terms, definitions, & equations used to define accessibility, government, etc...
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://definitions.gova11y.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://glossary.gova11y.io" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 github_username:  GovA11y
+
+# This custom var is used only in meta tags in _head.html. It does not break sites for staging, dev, etc.
+domain: "https://glossary.gova11y.io"
+
+timezone: "America/New_York"
+social_image: social-card--default.png
+
+# Size
+# site_width:
 
 # Build settings
 theme: uswds-jekyll
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-redirect-from
+
+# Jekyll SEO Tag
+# See https://github.com/jekyll/jekyll-seo-tag
+twitter:
+  username: civicactions
+logo: /img/usds-logo-onwhite.png
 
 # Exclude from processing.
 # The following items will not be processed, by default.
