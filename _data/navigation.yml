@@ -12,9 +12,9 @@
 #   links: primary
 #
 primary:
-  - text: Documentation
-    href: /docs/
-  - text: Navigation section
+  - text: How to Use
+    href: /how-to-use/
+  - text: Definitions
     links:
       - text: Demo link A
         href: /two/a/
@@ -28,10 +28,10 @@ primary:
         href: /two/b/
       - text: Demo link F
         href: /two/c/
-  - text: Referenced section
+  - text: About Us
     links: footer
-  - text: External link
-    href: https://18f.gsa.gov
+  - text: System Status
+    href: https://status.gova11y.io
     external: true
 
 secondary:

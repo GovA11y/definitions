@@ -4,7 +4,8 @@
     "ruby",
     "yaml",
     "html",
-    "xml"
+    "xml",
+    "plaintext"
   ],
   "eablokker.tabsSidebar.config.customTabOrder" : [
     "\/Users\/Shared\/GitHub\/Orgs\/GovA11y\/Definitions\/notes.md",
@@ -14,10 +15,17 @@
     "\/Users\/bhensel-ca\/.Trash\/_data\/edit-page.yml",
     "\/Users\/bhensel-ca\/.Trash\/_data\/theme.yml",
     "\/Users\/Shared\/GitHub\/Orgs\/GovA11y\/Definitions\/_site\/feed.xml",
-    "\/Users\/Shared\/GitHub\/Orgs\/GovA11y\/Definitions\/_data\/identifier.yml",
+    "\/Users\/Shared\/GitHub\/Orgs\/GovA11y\/Definitions\/.gitignore",
+    "\/Users\/Shared\/GitHub\/Orgs\/GovA11y\/Definitions\/_includes\/components\/.DS_Store",
+    "\/Users\/Shared\/GitHub\/Orgs\/GovA11y\/Definitions\/xxx404.html",
+    "\/Users\/Shared\/GitHub\/Orgs\/GovA11y\/Definitions\/_data\/edit-page.yml",
+    "\/Users\/Shared\/GitHub\/Orgs\/GovA11y\/Definitions\/_data\/favicons.yml",
     "\/Users\/Shared\/GitHub\/Orgs\/GovA11y\/Definitions\/_data\/header.yml",
+    "\/Users\/Shared\/GitHub\/Orgs\/GovA11y\/Definitions\/_data\/navigation.yml",
     "\/Users\/Shared\/GitHub\/Orgs\/GovA11y\/Definitions\/_site\/404.html",
-    "\/Users\/Shared\/GitHub\/Orgs\/GovA11y\/Definitions\/_site\/about\/index.html"
+    "\/Users\/Shared\/GitHub\/Orgs\/GovA11y\/Definitions\/_site\/about\/index.html",
+    "\/Users\/Shared\/GitHub\/Orgs\/GovA11y\/Definitions\/_data\/xxxidentifier.yml",
+    "\/Users\/Shared\/GitHub\/Orgs\/GovA11y\/Definitions\/_includes\/footer.html"
   ],
   "workspace.art_style" : 0,
   "workspace.name" : "GovA11y Definitions"
