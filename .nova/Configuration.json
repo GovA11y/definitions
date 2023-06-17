@@ -1,0 +1,24 @@
+{
+  "eablokker.tabsSidebar.config.customKindGroupsOrder" : [
+    "markdown",
+    "ruby",
+    "yaml",
+    "html",
+    "xml"
+  ],
+  "eablokker.tabsSidebar.config.customTabOrder" : [
+    "\/Users\/Shared\/GitHub\/Orgs\/GovA11y\/Definitions\/notes.md",
+    "\/Users\/Shared\/GitHub\/Orgs\/GovA11y\/Definitions\/Gemfile",
+    "\/Users\/Shared\/GitHub\/Orgs\/GovA11y\/Definitions\/_config.yml",
+    "\/Users\/Shared\/GitHub\/Orgs\/GovA11y\/Definitions\/_site\/index.html",
+    "\/Users\/bhensel-ca\/.Trash\/_data\/edit-page.yml",
+    "\/Users\/bhensel-ca\/.Trash\/_data\/theme.yml",
+    "\/Users\/Shared\/GitHub\/Orgs\/GovA11y\/Definitions\/_site\/feed.xml",
+    "\/Users\/Shared\/GitHub\/Orgs\/GovA11y\/Definitions\/_data\/identifier.yml",
+    "\/Users\/Shared\/GitHub\/Orgs\/GovA11y\/Definitions\/_data\/header.yml",
+    "\/Users\/Shared\/GitHub\/Orgs\/GovA11y\/Definitions\/_site\/404.html",
+    "\/Users\/Shared\/GitHub\/Orgs\/GovA11y\/Definitions\/_site\/about\/index.html"
+  ],
+  "workspace.art_style" : 0,
+  "workspace.name" : "GovA11y Definitions"
+}
