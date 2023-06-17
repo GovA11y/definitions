@@ -36,8 +36,6 @@ domain: "glossary.gova11y.io"
 timezone: "America/New_York"
 social_image: social-card--default.png
 
-# Size
-# site_width:
 
 # Build settings
 theme: uswds-jekyll
