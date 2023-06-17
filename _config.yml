@@ -31,7 +31,7 @@ url: "https://glossary.gova11y.io" # the base hostname & protocol for your site,
 github_username:  GovA11y
 
 # This custom var is used only in meta tags in _head.html. It does not break sites for staging, dev, etc.
-domain: "https://glossary.gova11y.io"
+domain: "glossary.gova11y.io"
 
 timezone: "America/New_York"
 social_image: social-card--default.png
