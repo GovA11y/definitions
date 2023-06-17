@@ -1,0 +1,11 @@
+---
+layout: default
+---
+
+{% assign csvData = site.data.glossary[page.file] %}
+
+<pre>
+{% for row in csvData %}
+{% for cell in row %}{{ cell[1] | escape }},{% endfor %}
+{% endfor %}
+</pre>

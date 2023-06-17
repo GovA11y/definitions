@@ -25,7 +25,7 @@ main:
 
         {% assign csvData = site.data.glossary[page.file] %}
 
-        <a href="{{ '/definitions/' | append: page.file | append: '.csv' }}" download>Download raw CSV file</a>
+        <a href="{{ '/raw/' | append: page.file }}">View raw CSV file</a>
 
         <table class="usa-table usa-prose">
           <thead>
