@@ -1,11 +1,10 @@
 ---
-layout: default
 ---
 
 {% assign csvData = site.data.glossary[page.file] %}
 
-<pre>
 {% for row in csvData %}
-{% for cell in row %}{{ cell[1] | escape }},{% endfor %}
+{% for cell in row %}{{ cell[1] | escape }}{% unless forloop.last %},{% endunless %}{% endfor %}
+{% unless forloop.last %}
+{% endunless %}
 {% endfor %}
-</pre>
