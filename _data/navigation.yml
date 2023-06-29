@@ -15,6 +15,14 @@ primary:
   #- text: Great Definitions
    # href: https://www.youtube.com/watch?v=xvFZjo5PgG0
    # external: true
+  - text: API
+    links:
+      - text: API Endpoints
+        href: https://reports.gova11y.io/docs
+      # - text: Metrics
+       # href: https://docs.gova11y.io/api/metrics
+     # - text: Issues
+     #   href: https://docs.gova11y.io/api/metrics
   - text: Rules
     links:
       - text: A11y Rules
