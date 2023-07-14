@@ -1,6 +1,6 @@
 ---
-title: A11yGorithms
-description: The A11yGorithms are a collection of algorithms used across the GovA11y Ecosystem.
+title: A11yRithms
+description: The A11yRithms are a collection of algorithms used across the GovA11y Ecosystem.
 permalink: /a11yrithms/
 
 layout: post
