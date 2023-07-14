@@ -27,7 +27,7 @@ primary:
       links:
           - text: A11y Rules
             href: /rules/a11y
-    - text: A11yGorithms
+    - text: A11yRithms
       href: /a11yrithms
     - text: Codes
       links:
