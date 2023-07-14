@@ -96,6 +96,12 @@ secondary:
       href: https://github.com/GovA11y/definitions
       external: true
 
+a11yrithms:
+    - text: A11yScore
+      href: /a11yrithms/a11yscore/
+    - text: A11yPlexity
+      href: /a11yrithms/a11yplexity/
+
 docs:
     - text: Sidenav Documentation
       href: /docs/

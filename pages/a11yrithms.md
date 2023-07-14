@@ -4,7 +4,7 @@ description: The A11yGorithms are a collection of algorithms used across the Gov
 permalink: /a11yrithms/
 
 layout: post
-sidenav: docs
+sidenav: a11yrithms
 subnav:
     - text: A11yScore
       href: "/a11yrithms/a11yscore"
