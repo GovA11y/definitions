@@ -98,9 +98,9 @@ secondary:
 
 a11yrithms:
     - text: A11yScore
-      href: /a11yrithms/a11yscore/
+      href: /a11yrithms/a11yscore
     - text: A11yPlexity
-      href: /a11yrithms/a11yplexity/
+      href: /a11yrithms/a11yplexity
 
 docs:
     - text: Sidenav Documentation
