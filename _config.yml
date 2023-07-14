@@ -24,33 +24,38 @@
 title: GovA11y Glossary
 email: hello@gova11y.io
 description: >- # this means to ignore newlines until "baseurl:"
-  Terms, definitions, & equations used to define accessibility, government, etc...
+    Terms, definitions, & equations used to define accessibility, government, etc...
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://glossary.gova11y.io" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
-github_username:  GovA11y
+github_username: GovA11y
 
 # This custom var is used only in meta tags in _head.html. It does not break sites for staging, dev, etc.
-domain: "glossary.gova11y.io"
+domain: "docs.gova11y.io"
 
 timezone: "America/New_York"
 social_image: social-card--default.png
 
+collections:
+    projects:
+        output: false
+    a11yrithms:
+        output: true
+        permalink: /:collection/:path/
 
 # Build settings
 theme: uswds-jekyll
 plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
-  - jekyll-sitemap
-  - jekyll-redirect-from
+    - jekyll-feed
+    - jekyll-seo-tag
+    - jekyll-sitemap
+    - jekyll-redirect-from
 
 # Jekyll SEO Tag
 # See https://github.com/jekyll/jekyll-seo-tag
 twitter:
-  username: civicactions
+    username: civicactions
 logo: /img/usds-logo-onwhite.png
-
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
