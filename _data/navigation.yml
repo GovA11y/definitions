@@ -12,131 +12,132 @@
 #   links: primary
 #
 primary:
-  #- text: Great Definitions
-   # href: https://www.youtube.com/watch?v=xvFZjo5PgG0
-   # external: true
-  - text: API
-    links:
-      - text: API Endpoints
-        href: https://reports.gova11y.io/docs
-      # - text: Metrics
-       # href: https://docs.gova11y.io/api/metrics
-     # - text: Issues
-     #   href: https://docs.gova11y.io/api/metrics
-  - text: Rules
-    links:
-      - text: A11y Rules
-        href: /rules/a11y
-  - text: Codes
-    links:
-      - text: Uppies Status Codes
-        href: /codes/uppies
-      - text: US State Codes
-        href: /codes/us-states
-  - text: Terms
-    links:
-      - text: Product Management Vocabulary
-        href: /terms/product-management
-      - text: Security
-        href: /terms/security/acronyms
-      - text: Security | DoD
-        href: /terms/security/dod
-      - text: Security | Function Points
-        href: /terms/security/function-points
-      - text: Security | GlobalNET
-        href: /terms/security/globalnet
-      - text: Security | Random
-        href: /terms/security/random
-  - text: External Resources
-    links:
-      - text: Siteimprove Glossary
-        href: https://www.siteimprove.com/glossary/
-        external: true
-      - text: PlainLanguage.gov
-        href: https://www.plainlanguage.gov/
-        external: true
-      - text: Mike's Main Mapping
-        href: https://docs.google.com/spreadsheets/d/12WN7pheuJZQEzb2bRisamrApJ4MpMKmdJmnxB7kQABA/edit#gid=0
-        external: true
-      - text: Great Definitions
-        href: https://www.youtube.com/watch?v=xvFZjo5PgG0
-        external: true
-  - text: CivicActions
-    href: https://civicactions.com
-    external: true
-    links:
-      - text: CivicActions.com
-        href: https://civicactions.com
-        external: true
-      - text: Accessibility
-        href: https://accessibility.civicactions.com/
-        external: true
-      - text: Glossary
-        href: https://accessibility.civicactions.com/guide/glossary
-        external: true
-      - text: Handbook
-        href: https://guidebook.civicactions.com/
-        external: true
-      - text: Styleguide
-        href: https://civicactions-style-guide.readthedocs.io/
-        external: true
+    #- text: Great Definitions
+    # href: https://www.youtube.com/watch?v=xvFZjo5PgG0
+    # external: true
+    - text: API
+      links:
+          - text: API Endpoints
+            href: https://reports.gova11y.io/docs
+          # - text: Metrics
+          # href: https://docs.gova11y.io/api/metrics
+          # - text: Issues
+          #   href: https://docs.gova11y.io/api/metrics
+    - text: Rules
+      links:
+          - text: A11y Rules
+            href: /rules/a11y
+    - text: A11yGorithms
+      href: /a11yrithms
+    - text: Codes
+      links:
+          - text: Uppies Status Codes
+            href: /codes/uppies
+          - text: US State Codes
+            href: /codes/us-states
+    - text: Terms
+      links:
+          - text: Product Management Vocabulary
+            href: /terms/product-management
+          - text: Security
+            href: /terms/security/acronyms
+          - text: Security | DoD
+            href: /terms/security/dod
+          - text: Security | Function Points
+            href: /terms/security/function-points
+          - text: Security | GlobalNET
+            href: /terms/security/globalnet
+          - text: Security | Random
+            href: /terms/security/random
+    - text: External Resources
+      links:
+          - text: Siteimprove Glossary
+            href: https://www.siteimprove.com/glossary/
+            external: true
+          - text: PlainLanguage.gov
+            href: https://www.plainlanguage.gov/
+            external: true
+          - text: Mike's Main Mapping
+            href: https://docs.google.com/spreadsheets/d/12WN7pheuJZQEzb2bRisamrApJ4MpMKmdJmnxB7kQABA/edit#gid=0
+            external: true
+          - text: Great Definitions
+            href: https://www.youtube.com/watch?v=xvFZjo5PgG0
+            external: true
+    - text: CivicActions
+      href: https://civicactions.com
+      external: true
+      links:
+          - text: CivicActions.com
+            href: https://civicactions.com
+            external: true
+          - text: Accessibility
+            href: https://accessibility.civicactions.com/
+            external: true
+          - text: Glossary
+            href: https://accessibility.civicactions.com/guide/glossary
+            external: true
+          - text: Handbook
+            href: https://guidebook.civicactions.com/
+            external: true
+          - text: Styleguide
+            href: https://civicactions-style-guide.readthedocs.io/
+            external: true
 
-
- # - text: About Us
- #   links: footer
+    # - text: About Us
+    #   links: footer
 #  - text: System Status
- #   href: https://status.gova11y.io
- #   external: true
+#   href: https://status.gova11y.io
+#   external: true
 
 secondary:
-  - text: Documentation
-    href: /docs/
-  - text: GitHub
-    href: https://github.com/GovA11y/definitions
-    external: true
+    - text: Documentation
+      href: /docs/
+    - text: GitHub
+      href: https://github.com/GovA11y/definitions
+      external: true
 
 docs:
-  - text: Sidenav Documentation
-    href: /docs/
-  - text: Sidenav External link
-    href: https://18f.gsa.gov
-    external: true
+    - text: Sidenav Documentation
+      href: /docs/
+    - text: Sidenav External link
+      href: https://18f.gsa.gov
+      external: true
 
 # Uncomment the 'links' sections below to use footer link columns
 # with the 'big' footer style.
 footer:
-  - text: Sample
-    href: /termsaa/
-    links:
-      - text: Axe Types
-        href: /termsaaa/axe_types
-      - text: Secondary documentation page
-        href: /docs/two/
-      - text: Tertiary docs
-        href: /docs/three/
-  - text: Navigation section
-    href: /docs/
-    links:
-      - text: Demo link A
-        href: /two/a/
-      - text: Demo link B
-        href: /two/b/
-      - text: Demo link C
-        href: /two/c/
-  - text: External links
-    href: /docs/
-    links:
-      - text: 18F
-        href: https://18f.gsa.gov
-        external: true
-      - text: Technology Transformation Service
-        href: https://join.tts.gsa.gov/
-        external: true
-      - text: code.gov
-        href: https://code.gov/
-        external: true
-  - text: Privacy policy
-    href: /docs/
+    - text: Sample
+      href: /termsaa/
+      links:
+          - text: Axe Types
+            href: /termsaaa/axe_types
+          - text: Secondary documentation page
+            href: /docs/two/
+          - text: Tertiary docs
+            href: /docs/three/
+    - text: Navigation section
+      href: /docs/
+      links:
+          - text: Demo link A
+            href: /two/a/
+          - text: Demo link B
+            href: /two/b/
+          - text: Demo link C
+            href: /two/c/
+    - text: External links
+      href: /docs/
+      links:
+          - text: 18F
+            href: https://18f.gsa.gov
+            external: true
+          - text: Technology Transformation Service
+            href: https://join.tts.gsa.gov/
+            external: true
+          - text: code.gov
+            href: https://code.gov/
+            external: true
+    - text: Privacy policy
+      href: /docs/
 #   links:
 #     - text: Demo link A
 #       href: /three/a/

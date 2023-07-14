@@ -26,7 +26,7 @@ email: hello@gova11y.io
 description: >- # this means to ignore newlines until "baseurl:"
     Terms, definitions, & equations used to define accessibility, government, etc...
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://glossary.gova11y.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://docs.gova11y.io" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 github_username: GovA11y
 
